@@ -1,0 +1,15 @@
+# nixpacks.toml
+version = "1.0"
+
+# Definiciones de tus servicios
+[[services]]
+  name = "frontend"
+  build = { dockerfile = "frontend/Dockerfile" }
+
+[[services]]
+  name = "product-service"
+  build = { dockerfile = "product-service/Dockerfile" }
+
+[[services]]
+  name = "order-service"
+  build = { dockerfile = "order-service/Dockerfile" }
