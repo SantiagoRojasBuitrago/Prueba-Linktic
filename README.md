@@ -21,7 +21,9 @@ Este proyecto simula la gestión de inventarios en un sistema de restaurante. Ut
 
 Puedes acceder a la aplicación desplegada en Railway en el siguiente enlace:
 
-[Acceder a la aplicación en Railway](https://nombre-de-tu-aplicacion.railway.app)
+[Acceder a la aplicación en Railway](https://prueba-linktic-production.up.railway.app/)
+
+
 
 ## Instrucciones para Ejecutar la Simulación Local
 
